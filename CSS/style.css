@@ -7,8 +7,9 @@
     margin: 0;
     padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    text-color:#25343F;
+    color:#25343F;
     font-size: 2vh;
+
 }
 
 body
@@ -104,6 +105,11 @@ main
     border: 10px rgb(230, 228, 228) solid;
 }
 
+.NeedCenter
+{
+    margin: 0 2.5vw;
+}
+
 
 
 /*************************************************************
@@ -115,7 +121,7 @@ footer
     height: 5%;
     width: 100vw;
     position: relative;
-    bottom: 0px;
+    bottom:0%;
 }
 
 footer p
