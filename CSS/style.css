@@ -1,5 +1,134 @@
+/*************************************************************
+                GENERAL SETTINGS
+*************************************************************/
+
 *
 {
     margin: 0;
     padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-color:#25343F;
+    font-size: 2vh;
+}
+
+body
+{
+    height: 100vh;
+}
+
+/*************************************************************
+                        IMAGES
+*************************************************************/
+.PicPallet img
+{
+    border: 10px rgb(230, 228, 228) solid;
+    
+    width: 45vw;
+}
+
+#Area
+{
+    width: 90vw;
+    height: auto;
+}
+
+#destination-logo
+{
+Float: right;
+}
+
+/*************************************************************
+                        HEADER
+*************************************************************/
+header
+{
+    background-color: #BFC9D1;
+    height: 15%;
+}
+
+h1
+{
+    padding:2vh 0;
+    text-align: center;
+    font-size: 5vh;
+}
+
+nav a 
+{
+    
+    text-decoration: none;
+    color: #25343F;
+    font-size: 2.5vh;
+    padding: 0 2vw;
+
+}
+
+nav
+{
+    background-color: #FF9B51;
+    padding:4px;
+    border-top: 1px #25343F solid;
+    border-bottom: 1px #25343F solid;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/*************************************************************
+                        MAIN
+*************************************************************/
+
+main
+{
+    margin:2vh 2vw
+}
+
+#description-lieux
+{
+    padding: 0vh 2vw 2vh 2vw;
+}
+
+#mainMap 
+{
+    padding: 2vh 2vw;
+    text-align: center;
+}
+
+#mainMap p 
+{
+    padding: 2vh 0;
+}
+
+#mainMap img 
+{
+    border: 10px rgb(230, 228, 228) solid;
+}
+
+
+
+/*************************************************************
+                        FOOTER
+*************************************************************/
+footer
+{
+    background-color: #BFC9D1;
+    height: 5%;
+    width: 100vw;
+    position: relative;
+    bottom: 0px;
+}
+
+footer p
+{
+    text-align: center;
+    padding: 1vh 0;
+    font-size: 2vh;
+}
+/*************************************************************
+                        EXEPTION
+*************************************************************/
+
+.dero_link {
+    text-decoration: underline;
+    color:rgb(31, 44, 223);
 }
