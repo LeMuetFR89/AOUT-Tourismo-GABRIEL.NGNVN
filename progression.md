@@ -11,6 +11,10 @@ theme: uncover
     Date    :   18.11.2026
     Projet  :   Additions d'éléments sur le SiteWeb
 
+---
+
+# Sommaire
+
     - Hébergement
     - Accès
     - Uniformisation
@@ -22,8 +26,7 @@ theme: uncover
 __Checklist :__
 
     - 4 établissement et contenue
-    - Uniformité du style.
-    - Liens fonctionnel
+
 
 ---
 
@@ -45,6 +48,6 @@ __Checklist :__
 
 ## Problème rencontré 
 
-    - Texte
+    - Difficulté à Push, réglé en utilisant "Pull"
 
 ---
