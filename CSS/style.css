@@ -116,7 +116,24 @@ main
     height: auto;
     margin: 5vh 20vw;
 }
+.hotelsun
+{
+    width: 500px;
+    border-radius:50px ;
+    
+}
 
+
+.prix{
+    display: flex;
+    gap: 5px;
+
+}
+.maincen{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
 /*************************************************************
                         FOOTER
 *************************************************************/
